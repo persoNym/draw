@@ -10,7 +10,7 @@ import javax.swing.*;
 
 
 public class Draw extends JFrame{
-    static final String name = "~VICTORIA ABADUA CROFFIE~";
+    static final String name = "~VICTORIA~";
     private Font font1 = new Font("Monospaced", Font.BOLD + Font.ITALIC, 20);
 
     public static void main(String[] args) {
